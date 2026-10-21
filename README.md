@@ -6,4 +6,4 @@ Practice examples for string manipulation in C++, stored in `strings/`.
 - `strings/palindrome.cpp`
 - `strings/anagram_check.cpp`
 
-Prepared on 2026-10-21.
+Prepared on 2026-10-15.
